@@ -1,3 +1,5 @@
+Live: https://genui.pratik.codes
+
 GenUI (AI Webpage Generator)
 
 An AI-powered webpage generator built with Vite and the Gemini API. 🚀
@@ -48,3 +50,4 @@ npm run dev
 
 
 5. Open the app, enter a prompt, and generate your webpage! 🎉
+
