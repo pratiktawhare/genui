@@ -41,7 +41,7 @@ const Home = () => {
       setLoading(true);
       setOutputScreen(false);
       const response = await ai.models.generateContent({
-        model: "gemini-2.5-pro",
+        model: "gemini-2.5",
         contents: `
         You are an experienced programmer with expertise in web development and UI/UX design. You create modern, animated, and fully responsive UI webpages. You are highly skilled in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Next.js, Vue.js, Angular, and more.
   
