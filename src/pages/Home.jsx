@@ -245,6 +245,7 @@ const Home = () => {
                     theme="vs-dark"
                     language="html"
                     value={code}
+                    onChange={setCode}
                   />
                 ) : (
                   <iframe
