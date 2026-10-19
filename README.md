@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>GenUI - AI Webpage Generator 🚀</h1>
+  <h1>GenUI - AI based UI Components Generator 🚀</h1>
   <p>An AI-powered webpage generator built with Vite and the Gemini API.</p>
   
   <a href="https://genui.pratik.codes"><strong>View Live Demo »</strong></a>
